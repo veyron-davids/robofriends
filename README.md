@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+An app biult to test my react skills
 To run the project:
 
 1. Clone this repo
